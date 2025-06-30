@@ -1,0 +1,22 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "life-planner-e80ba",
+          "appId": "1:873757249905:android:042c50921bfa55a25e66d0",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "life-planner-e80ba",
+          "configurations": {
+            "android": "1:873757249905:android:042c50921bfa55a25e66d0",
+            "ios": "1:873757249905:ios:44c4e1b89bd034215e66d0"
+          }
+        }
+      }
+    }
+  }
+}

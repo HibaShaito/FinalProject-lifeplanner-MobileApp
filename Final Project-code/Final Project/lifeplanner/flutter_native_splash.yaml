@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#F2F2F2" # Solid color that matches your logo
+
+  image: assets/icon/splash logo.png
+  fullscreen: true
+
+  android_12:
+    color: "#F2F2F2"
+    image: assets/icon/splash logo.png
