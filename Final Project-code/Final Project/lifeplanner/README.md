@@ -1,16 +1,29 @@
-# lifeplanner
+# LifePlanner
 
-ISD project.
+A student mobile app project developed as part of the Information Systems Design (ISD) course.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+LifePlanner is a multifunctional Flutter-based mobile application that helps users manage their daily lives. It includes features such as:
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Daily scheduling
+- 💬 AI-powered chatbot 
+- 📊 Personal finance tracking
+- 🩺 Health and wellness logging
+- ☀️ Live weather updates with motivational quotes
+- 📝 Personal notes and reminders
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 Technologies Used
+
+- **Flutter** (Dart)
+- **Firebase** (Auth, Firestore)
+- **REST APIs** (Weather & Quote APIs)
+- **Groq/OpenAI API** (Chatbot)
+- **SharedPreferences**
+- **HTTP Package**
+
+---
+
+
