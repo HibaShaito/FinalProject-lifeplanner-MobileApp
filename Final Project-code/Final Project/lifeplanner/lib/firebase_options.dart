@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBJGNFofZ2WDPrYD6MFtKlL0U_wsm53mFI',
-    appId: '1:873757249905:android:042c50921bfa55a25e66d0',
-    messagingSenderId: '873757249905',
-    projectId: 'life-planner-e80ba',
-    storageBucket: 'life-planner-e80ba.firebasestorage.app',
+    apiKey: 'Your APi',
+    appId: 'id',
+    messagingSenderId: 'msg',
+    projectId: 'pr id',
+    storageBucket: '',
   );
 }
